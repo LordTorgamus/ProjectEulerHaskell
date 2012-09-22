@@ -1,0 +1,1 @@
+﻿Just another unremarkable [Project Euler](projecteuler.net) repo. This one's in Haskell.
